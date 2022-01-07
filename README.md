@@ -1,4 +1,4 @@
-# laravel_cpanel_deploy
+# Deploy Laravel Projects to Cpanel which you don't have ssh access
 first you should make a **.htaccess** file in your public_html or root folder
 then you should put this codes :
 ```
