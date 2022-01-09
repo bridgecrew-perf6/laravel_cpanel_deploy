@@ -1,5 +1,5 @@
 # Deploy Laravel Projects to Cpanel which you don't have ssh access
-first you should make a **.htaccess** file in your public_html or root folder
+first you should make **.htaccess** file in your public_html or root folder
 then you should put this codes :
 ```
 <IfModule mod_rewrite.c>
